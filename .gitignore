@@ -1,0 +1,5 @@
+//Ignorer les fichiers en .XXX
+*.log
+
+//Ignorer les dossier [Xx]xxx
+[Bb]in
